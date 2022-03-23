@@ -1,1 +1,1 @@
-# table
+# repo for school assignments
